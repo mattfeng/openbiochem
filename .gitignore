@@ -1,0 +1,4 @@
+tmp/
+meta/
+*.DS_Store
+__MACOSX
