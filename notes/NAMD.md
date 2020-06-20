@@ -23,4 +23,7 @@
 
 ## Particle Mesh Ewald (PME)
 * PME is a method for dealing with electrostatic interactions in periodic boundary condition environments.
-* 
+
+
+## Alchemical FEP
+* Currently, alchemical free energy perturbation is only available on the CPU version of NAMD.
