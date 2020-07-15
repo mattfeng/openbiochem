@@ -30,7 +30,6 @@
 * RasMol/OpenRasMol
     * tags: #visualization, #legacy
 
-
 ## Molecular Dynamics
 * GROMACS
 * AMBER
@@ -49,3 +48,9 @@
 
 ## Models
 * AM1 (Austin Model 1)
+
+## Bioinformatics
+* PanPhlAn (https://github.com/SegataLab/panphlan)
+    * tags: #pangenomics
+* Roary (https://sanger-pathogens.github.io/Roary/)
+    * tags: #pangenomics
