@@ -54,3 +54,9 @@
     * tags: #pangenomics
 * Roary (https://sanger-pathogens.github.io/Roary/)
     * tags: #pangenomics
+* Prokka
+
+# Blogs
+* Molecular Modeling Basics (https://molecularmodelingbasics.blogspot.com/)
+    * Website of Jan H. Jensen (PI of Jan H. Jensen Research Group of the Department of Chemistry, University of Copenhagen)
+    * tags: #chemistry
