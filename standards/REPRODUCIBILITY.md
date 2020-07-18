@@ -3,7 +3,7 @@
 ## Biomedical research
 
 |key|value|
-|:-:|:---:|
+|:--|:----|
 |title|Recommendations to enhance rigor and reproducibility in biomedical research|
 |link|https://arxiv.org/pdf/2001.05127.pdf|
 
@@ -54,3 +54,41 @@
         * _create earmarked funds and reporting requirements to support reusable resources_
             * funding agencies need to earmark funds for funding research software engineers
 
+|key|value|
+|:--|:----|
+|title|Quantifying reproducibility in computational biology: the case of the tuberculosis drugome|
+|link|doi:10.1371/journal.pone.0080278|
+
+* Need to open-source both _data_ and _computational workflows_
+* reproducibility of four types (levels)
+    * **rep-author**. can the authors reproduce and extend the work? some of the authors may have moved on to other endeavours (or did not create enough documentation), complicating matters
+    * **rep-expert**. can a resesarch familiar with the research area replicate the experiment?
+    * **rep-novice**. researcher with basic bioinformatics experience
+    * **rep-minimal**. researcher with no expertise in bioinformatics
+* _authors should be encouraged to publish high-level flow diagrams as a normal part of the materials and methods section of a paper_    
+* _authors should publish configuration files along with descriptions of the software used_
+* _release data in formats as they are inputs to software, as well as formats for presentation_
+* _include version numbers of software_. as software improves, more findings may appear
+* _publish intermediate data, since the original sources may have changed._
+* _use open source software when publishing results, particularly for reproducibility reasons_
+
+|key|value|
+|:--|:----|
+|title|A manifesto for reproducible science|
+|link||
+
+* **methods**
+    * protect against cognitive biases
+    * improve methological training (statistics knowledge, research design)
+    * implement independent methodological support (external agencies to oversee experiment design, remove conflicts of interest)
+    * encourage collaboration and team science (pooled resources enables more powerful studies)
+* **reporting and dissemination**
+    * promote study pre-registration - improves discoverability
+        * addresses problems of _publication bias_ and _analytical flexiblility_
+        * <u>prespecify the study design, primary outcome, and analysis plan</u>
+        * journals adopting the **Registered Reports publishing format**
+    * improve the quality of reporting - improves usability
+* **reproducibility**
+    * promote transparency and open science
+* **evaluation**
+    * diversifying peer review, open peer review
