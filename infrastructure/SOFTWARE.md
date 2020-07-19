@@ -11,31 +11,30 @@
 |||FTP Client|
 |Gene Codes|Sequencher|DNA Sequence Analysis Software|
 |GraphPad|Prism|Analysis and graphing software for scientific research|
-|GSL Biotech|SnapGene||
-|Illumina|Sequencing Analysis Viewer||
+|GSL Biotech|SnapGene|Plan, visualize, and document DNA cloning and PCR|
+|Illumina|Sequencing Analysis Viewer|View quality metrics in real time on Illumina sequencing systems|
 |Ingenuity Systems|Pathways Analysis (IPA)||
 |Lexmark|Perceptive Content (ImageNow)||
 |Lucidchart|Lucidcharts|Diagram and charting software|
 |MacVector|MacVector|Sequence analysis software for molecular biologists|
 |Mathworks|Matlab||
-|Mekentosj|Papers||
-|Mestrelab|MestReNova||
-|Microsoft|Microsoft Office||
-|MOE|Moe||
-|Oracle|SQL Developer||
-|PaperPile|PaperPile||
-|PerkinElmer|ChemDraw||
-|Quest|Toad||
-|Quest|SQL Navigator||
-|Schrodinger|PyMOL||
-|Sequenom|MassArray Typer||
-|Shoretel|Communicator||
-|Slack|Slack||
-|Smartsheet|Smartsheet||
-|StarDrop|StarDrop||
-|Tableau|Tableau Desktop||
-|TechSmith|Snagit||
-|Thomson Reuters|EndNote||
-|Tibco|Spotfire||
+|Mekentosj|Papers|Paper and reference management software|
+|Mestrelab|MestReNova|Chemistry software suite|
+|Microsoft|Microsoft Office|Document editing and presentation software|
+|MOE|Molecular Operating Environment|Integrated computer-aided molecular design platform|
+|Oracle|SQL Developer|IDE for working with SQL in Oracle databases|
+|PaperPile|PaperPile|Reference and PDF management|
+|PerkinElmer|ChemDraw|Graphical molecular editor|
+|Quest|Toad|Database management toolset|
+|Schrodinger|PyMOL|Molecular visualization system|
+|Sequenom|MassArray Typer|Integrated data analysis tool to evaluate and manage assay results|
+|Slack|Slack|Internal messaging tool|
+|Smartsheet|Smartsheet|Collaboration and work management for project management|
+|StarDrop|StarDrop|Platform for small molecule design, optimization, and analysis|
+|Tableau|Tableau Desktop|Interactive data visualization software|
+|TechSmith|Snagit|Screen capture software|
+|Thomson Reuters|EndNote|Reference management software|
+|Tibco|Spotfire|Data visualization and analytics software|
 |VMware|Horizon Client|Virtual desktops and hosted applications|
-|YourKit|YourKit Java Profiler||
+|YourKit|YourKit Java Profiler|Java and .NET performance profiling softare|
+|Scripps Research|AutoDock|Automated docking tools to predict small molecule binding to receptors|

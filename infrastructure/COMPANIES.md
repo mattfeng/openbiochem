@@ -39,4 +39,5 @@ Selleck Chemicals
 Sigma Aldrich
 Stemcell Technologies
 W.B. Mason
-Zymo Research
+|Zymo Research|
+|Agena Bioscience|
