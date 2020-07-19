@@ -13,8 +13,8 @@
 |GraphPad|Prism|Analysis and graphing software for scientific research|
 |GSL Biotech|SnapGene|Plan, visualize, and document DNA cloning and PCR|
 |Illumina|Sequencing Analysis Viewer|View quality metrics in real time on Illumina sequencing systems|
-|Ingenuity Systems|Pathways Analysis (IPA)||
-|Lexmark|Perceptive Content (ImageNow)||
+|Ingenuity Systems|Ingenuity Pathways Analysis (IPA)|Data analysis platform for high-throughput experiments (e.g. microarray and next generation sequencing)|
+|Hyland|Perceptive Content (ImageNow)|Content and process management software|
 |Lucidchart|Lucidcharts|Diagram and charting software|
 |MacVector|MacVector|Sequence analysis software for molecular biologists|
 |Mathworks|Matlab||
@@ -38,3 +38,5 @@
 |VMware|Horizon Client|Virtual desktops and hosted applications|
 |YourKit|YourKit Java Profiler|Java and .NET performance profiling softare|
 |Scripps Research|AutoDock|Automated docking tools to predict small molecule binding to receptors|
+||Reactome.org|Open-source, open access, manually curated, peer-reviewed pathway database|
+||Wikigenes|Wiki for life sciences with authorship tracking|
