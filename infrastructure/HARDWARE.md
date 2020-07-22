@@ -29,7 +29,7 @@
 |New England Biolabs|||
 |Oakwood Products|||
 |PeproTech|||
-|Perkin Elmer|||
+|Perkin Elmer|Janus Automated Workstation||
 |Qiagen|||
 |Rainin|||
 |R&D Systems|||
@@ -40,4 +40,7 @@
 |Stemcell Technologies|||
 |Zymo Research|||
 |Agena Bioscience|||
-|Thermo|Q-Exactive Plus, Q-Exactive HF, LTQ-Orbitrap Elite, Orbitray Fusion Lumos Tribrid Mass Spec||
+|Thermo|Q-Exactive Plus, Q-Exactive HF, LTQ-Orbitrap Elite, Orbitray Fusion Lumos Tribrid Mass Spec, TSQ Quantiva, Kingfisher 96||
+|SciEx|QTRAP 5500||
+|Waters|Xevo-TQS||
+||EASY nLC 1200, EASY nLC 1000, NanoAcquity, Eskigent nanoLC||

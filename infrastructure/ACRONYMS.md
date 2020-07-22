@@ -19,3 +19,5 @@
 |MS/MS|Tandem mass spectroscopy||
 |BMD|Biomarker discovery||
 |CPTAC|Clinical Proteomic Tumor Analysis Consortium|National effort to accelerate the understanding of the molecular basis of cancer through large-scale proteome and genome analysis|
+|iTRAQ|Isobaric tag for relative and absolute quantitation||
+|MRM/SRM|Targeted mass spec (Multiple reaction monitoring, selective reaction monitoring)||
