@@ -29,7 +29,7 @@
 * Computational genomics course ([YouTube](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn))
 * IGV Jupyter widgets
 * IGV ([User Guide](https://software.broadinstitute.org/software/igv/UserGuide))
-* Bandage ([Documentation](https://github.com/rrwick/Bandage/wiki)
+* Bandage ([Documentation](https://github.com/rrwick/Bandage/wiki))
 * NCBI Toolbox ([Documentation](https://www.ncbi.nlm.nih.gov/IEB/ToolBox/index.cgi))
 
 #### 🧠 Knowledge bases and datasets
