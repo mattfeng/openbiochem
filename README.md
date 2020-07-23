@@ -1,8 +1,19 @@
 # open-biochem: Open resources for biology, chemistry, and computation.
 
 ## How this repository is organized
-* TODO
-
+```
+├── assets/     # Images and other media.
+├── book/       # Draft of comprehensive, open source textbook on biology, chemistry, and computation.
+├── flashcards/ # Structure YAML files for things worth memorizing.
+├── ideas.md    # Ideas for future projects.
+├── notes/      # Notes to be converted into book sections, or blog posts.
+├── papers/     # Papers to read.
+├── README.md   # this document
+├── reference/  # Reference sheets and other structured data.
+├── todo.md     # Websites, papers, and other resources to explore.
+├── tools.md    # A list of tools used in research and education.
+└── usnco/      # Resources related to the United States National Chemistry Olympiad.
+```
 ## Book
 
 ### 📝 Incomplete drafts
