@@ -1,0 +1,445 @@
+# - name:
+#   current:
+#     - year:
+#       start_date:
+#       end_date:
+#       name:
+#       loc:
+#       url:
+
+- name: IUPAC International Conference on Physical Organic Chemistry
+  current:
+    - year: 2022
+      start_date: July 10
+      end_date: July 15
+      name: 25th IUPAC International Conference on Physical Organic Chemistry
+      loc: Hiroshima, Japan
+      url: https://icpoc25.jp/
+
+- name: International Conference on Fundamental and Applied Aspects of Physical Chemistry
+  current:
+    - year: 2020
+      start_date: September 21
+      end_date: September 25
+      name: 15th International Conference on Fundamental and Applied Aspects of Physical Chemistry
+      loc: Belgrade, Serbia
+      url: http://www.socphyschemserb.org/en/events/pc2020/
+
+- name: International Symposium on the Organic Chemistry of Sulfur
+  current:
+    - year: 2022
+      start_date:
+      end_date:
+      name: 29th International Symposium on the Organic Chemistry of Sulfur
+      loc: Ontario, Canada
+      url: https://www.isocs-29.com/
+
+- name: Asia Pacific Symposium on Radiation Chemistry
+  current:
+    - year: 2020
+      start_date: April 21
+      end_date: April 24
+      name: 8th Asia Pacific Symposium on Radiation Chemistry (APSRC 2020)
+      loc: Takasaki, Japan
+      url: https://radiation-chemistry.org/apsrc2020/
+      status: paper
+
+- name: World Conference on Carbon
+  current:
+    - year: 2020
+      start_date: June 28
+      end_date: July 3
+      name: 2020 World Conference on Carbon
+      loc: Kyoto, Japan
+      url: http://www.tanso.org/carbon2020/
+      status: cancelled
+
+- name: Pharmaceutical Sciences World Congress
+  current:
+    - year: 
+      start_date:
+      end_date:
+      name: 7th FIP Pharmaceutical Sciences World Congress (PSWC2020)
+      loc: Montreal, Canada
+      url: https://pswc2020.fip.org/
+
+- name: World Congress on Biosensors
+  current:
+    - year: 2020
+      start_date: November 9
+      end_date: November 12
+      name: 30th Anniversary World Congress on Biosensors
+      loc: Busan, Korea
+      url: https://www.elsevier.com/events/conferences/world-congress-on-biosensors
+
+- name: International Workshop on Active-Matrix Flatpanel Displays and Devices
+  current:
+    - year: 2020
+      start_date: September 1
+      end_date: September 4
+      name: 27th International Workshop on Active-Matrix Flatpanel Displays and Devices
+      loc: Kyoto, Japan
+      url: http://www.amfpd.jp/
+
+- name: International Congress on Biodiversity (ICOB)
+  current:
+    - year: 2020
+      start_date: October 25
+      end_date: October 29
+      name: 31st International Symposium on the Chemistry of Natural Products and 11th International Congress on Biodiversity
+      loc: Naples, Italy
+      url: https://www.iscnp31-icob11.org/
+
+- name: International Symposium on the Chemistry of Natural Products (ISCNP)
+  current:
+    - year: 2020
+      start_date: October 25
+      end_date: October 29
+      name: 31st International Symposium on the Chemistry of Natural Products and 11th International Congress on Biodiversity
+      loc: Naples, Italy
+      url: https://www.iscnp31-icob11.org/
+
+- name: International IUPAC Conference on Polymer-Solvent Complexes and Intercalates 
+  current:
+    - year: 2020
+      start_date: November 10
+      end_date: November 13
+      name: 13th International IUPAC Conference on Polymer-Solvent Complexes and Intercalates (POLYSOLVAT13)
+      loc: Osaka, Japan
+      url: http://www.chem.sci.osaka-u.ac.jp/graduate/mms/polysolvat13/
+
+- name: ISR Analytica
+  current:
+    - year: 2021
+      start_date: January 19
+      end_date: January 20
+      name: 23rd ISR Analytica Annual Meeting Conference and Exhibition
+      loc: Tel Aviv, Israel
+      url: https://isranalytica.com/
+
+- name: IUPAC International Conference on Chemistry Education (ICCE)
+  current:
+    - year: 2021
+      start_date: January 26
+      end_date: January 30
+      name: 26th IUPAC International Conference on Chemistry Education (ICCE 2021)
+      loc: Cape Town, South Africa
+      url: https://www.icce2021.org.za/
+
+- name: International Conference on Bioinspired and Biobased Chemistry and Materials (Nature Inspires, Creativity Engineers)
+  current:
+    - year: 2020
+      start_date: October 11
+      end_date: October 14
+      name: 5th International Conference on Bioinspired and Biobased Chemistry & Materials
+      loc: Nice, France
+      url: http://www.nice-conference.com/
+
+- name: International Polymer Characterization Forum
+  future:
+    - year: 2021
+      start_date: January 25
+      end_date: January 29
+      name: POLY-CHAR 2021
+      subname: World Forum on Advanced Materials and "Short Course on Polymer Characterization"
+      loc: Auckland, New Zealand
+      url: https://www.polychar2021.org
+  current:
+    - year: 2020
+      start_date: October 5
+      end_date: October 9
+      name: POLY-CHAR 2020
+      subname: Careers and perspectives in polymers
+      loc: Venice, Italy
+      url: https://www.poly-char2020.org/
+
+- name: CECE
+  current:
+    - year: 2021
+      start_date: November 7
+      end_date: November 11
+      name: Joint Meeting of the 18th Asia Pacific Symposium on Microscale Separation and Analysis and 17th International Interdisciplinary Meeting on Bioanalysis
+      subname: Better lives through better bioanalytical and environmental analyses
+      loc: Angkor Wat, Cambodia
+      url: http://www.apce-cece.org/
+
+- name: Asia Pacific Symposium on Microscale Separation and Analysis
+  current:
+    - year: 2021
+      start_date: November 7
+      end_date: November 11
+      name: Joint Meeting of the 18th Asia Pacific Symposium on Microscale Separation and Analysis and 17th International Interdisciplinary Meeting on Bioanalysis
+      subname: Better lives through better bioanalytical and environmental analyses
+      loc: Angkor Wat, Cambodia
+      url: http://www.apce-cece.org/
+
+- name: Baikal International Scientific and Practical Conference
+  current:
+    - year: 2020
+      start_date: September 21
+      end_date: September 25
+      name: 3rd Baikal International Scientific and Practical Conference
+      subname: "Snow Cover, Atmospheric Precipitation, Aerosols: Chemistry and Climate"
+      loc: Listvyanka, Russian Federation
+      url: http://snow-baikal.tw1.ru/index-eng
+
+- name: Italian-French International Conference on Magnetic Resonance
+  current:
+    - year: 2021
+      start_date: September
+      end_date: September
+      name: Italian-French International Conference on Magnetic Resonance
+      loc: Milan, Italy
+      url:
+
+- name: International Conference on Solid State Chemistry
+  current:
+    - year: 2021
+      start_date: June
+      end_date: June
+      name: 14th International Conference on Solid State Chemistry
+      loc: Trencin, Slovakia
+      url: https://funglass.eu/ssc2020/
+
+- name: International Symposium on Solubility Phenomena and Related Equilibrium Processes
+  current:
+    - year: 2021
+      start_date: July
+      end_date: July
+      name: 19th International Symposium on Solubility Phenomena and Related Equilibrium Processes (ISSP-19)
+      loc: Albuquerque, New Mexico, United States
+      url: http://www.lanl.gov/ISSP19
+
+- name: International Conference on Coordination Chemistry
+  current:
+    - year: 2021
+      start_date: June 27
+      end_date: July 2
+      name: 44th International Conference on Coordination Chemistry
+      loc: Rimini, Italy
+      url: https://www.iccc2021.com/
+
+- name: International Biotechnology Symposium
+  current:
+    - year: 2021
+      start_date: May 9
+      end_date: May 12
+      name: 19th International Biotechnology Symposium
+      loc: Maastricht, Netherlands
+      url: https://www.ecb2020.com/
+
+- name: CHEMRAWN Conferences
+  future:
+    - year:
+      start_date:
+      end_date:
+      name: ChemRAWN XXIII Medical Supply Chain Security
+      loc:
+      url:
+  current:
+    - year: 2021
+      start_date: May
+      end_date: May
+      name: ChemRAWN XXII E-Waste Africa Conference
+      loc: Lagos, Nigeria
+      url: https://e-wasteafrica.org/
+
+- name: IUPAC World Chemistry Congress
+  current:
+    - year: 2021
+      start_date: August 13
+      end_date: August 20
+      name: IUPAC General Assembly and World Chemistry Congress 2021
+      loc: Montreal, Quebec, Canada
+      url: http://iupac2021.org
+
+- name: Triennial Congress of the World Association of Theoretical and Computational Chemists
+  current:
+    - year: 2021
+      start_date: July 25
+      end_date: July 30
+      name: 12th Triennial Congress of the World Association of Theoretical and Computational Chemists
+      loc: Vancouver, Canada
+      url: https://watoc2020.ca/
+
+- name: Virtual Conference on Chemistry and its Applications
+  current:
+    - year: 2020
+      start_date: August 1
+      end_date: August 31
+      name: VCCA-2020
+      subname: "Research and Innovations in Chemical Sciences: Paving the Way Forward"
+      loc: Online
+      url: http://sites2019.uom.ac.mu/vcca2020/
+
+- name: European Symposium on Photopolymer Science
+  current:
+    - year: 2021
+      start_date: TBD
+      end_date: TBD
+      name: 6th European Symposium on Photopolymer Science
+      loc: Istanbul, Turkey
+      url: http://www.esps2020.org/
+
+- name: International Conference on Contaminated Land, Ecological Assessment and Remediation (CLEAR)
+  current:
+    - year: 2021
+      start_date: June 9
+      end_date: June 11
+      name: 5th International Conference on Contaminated Land, Ecological Assessment and Remediation
+      loc: London, United Kingdom
+      url: http://clear2020.mdx.ac.uk/
+
+- name: European Conference on Research in Chemical Education
+  current:
+    - year: 2022
+      start_date: July 11
+      end_date: July 13
+      name: ECRICE 2020
+      loc: Rehovot, Israel
+      url: http://www.weizmann.ac.il/conferences/ECRICE2020/
+
+- name: Prague Meeting on Macromolecules
+  current:
+    - year: 2021
+      start_date: July 18
+      end_date: July 22
+      name: 8th Prague Meeting on Macromolecules
+      subname: "Frontiers of Polymer Colloids: From Synthesis to Macro-Scale and Nano-Scale Applications"
+      loc: Prague, Czech Republic
+      url: https://www.imc.cas.cz/sympo/84pmm/
+
+- name: International Carbohydrate Symposium
+  current:
+    - year: 2022
+      start_date: July 10
+      end_date: July 14
+      name: ICS2022
+      loc: Florianopolis, Brazil
+      url:
+
+- name: IUPAC Symposium on Photochemistry
+  current:
+    - year: 2022
+      start_date: July 17
+      end_date: July 22
+      name: 28th IUPAC Symposium on Photochemistry (PhotoIUPAC)
+      loc: Amsterdam, Netherlands
+      url: https://photoiupac2022.amsterdam/
+
+- name: IUPAC International Conference on Green Chemistry
+  current:
+    - year: 2020
+      start_date: October 18
+      end_date: October 22
+      name: 9th IUPAC International Conference on Green Chemistry
+      loc: Athens, Greece
+      url: https://greeniupac2020.org/
+  
+- name: World Polymer Congress
+  future:
+    - year: 2022
+      start_date: July 17
+      end_date: July 22
+      name: 49th World Polymer Congress
+      loc: Winnipeg, Manitoba, Canada
+      url:
+  current:
+    - year: 2021
+      start_date: May 16
+      end_date: May 20
+      name: 48th World Polymer Congress
+      loc: Jeju, South Korea
+      url: www.macro2020.org
+
+- name: IUPAC International Congress of Crop Protection Chemistry
+  current:
+    - year: 2023
+      start_date: January 10
+      end_date: January 13
+      name: 15th IUPAC International Congress of Crop Protection Chemistry
+      loc: New Delhi, India
+      url: http://www.iupac2023.com/
+  history:
+    - year: 2019
+      start_date: May 19
+      end_date: May 24
+      name: 14th IUPAC International Congress of Crop Protection Chemistry
+      loc: Ghent, Belgium
+      doi: 10.1515/ci-2019-0429
+      url: https://www.iupac2019.be
+    - year:
+      start_date:
+      end_date:
+      name: 13th
+      loc:
+      doi:
+      url:
+    - year:
+      start_date:
+      end_date:
+      name: 12th
+      loc:
+      doi:
+      url:
+    - year: 2006
+      start_date: August 6
+      end_date: August 10
+      name: 11th IUPAC International Congress of Pesticide Chemistry
+      loc: Kobe, Japan
+      doi:
+    - year: 2002
+      start_date: August 4
+      end_date: August 9
+      name: 10th IUPAC International Congress on the Chemistry of Crop Protection
+      loc: Basel, Switzerland
+      doi: 10.1039/b205185k 
+    - year: 1998
+      start_date: August 2
+      end_date: August 7
+      name: 9th IUPAC International Congress of Pesticide Chemistry
+      loc: London, United Kingdom
+      doi: 10.1515/ci.1999.21.1.22
+    - year: 1994
+      start_date: July 4
+      end_date: July 9
+      name: 8th IUPAC International Congress of Pesticide Chemistry
+      loc: Washington, DC, United States
+      doi: 10.1007/BF00700191
+    - year: 1990
+      start_date: August 5
+      end_date: August 10
+      name: 7th International Congress of Pesticide Chemistry (IUPAC)
+      loc: Hamburg, Germany
+      doi: 10.1002/ps.2780300406
+    - year: 1986
+      start_date: August 10
+      end_date: August 17
+      name: 6th International Congress of Pesticide Chemistry (IUPAC)
+      loc: Ottawa, Canada
+    - year: 1982
+      start_date: August 29
+      end_date: September 4
+      name: 5th International Congress of Pesticide Chemistry (IUPAC)
+      loc: Kyoto, Japan
+    - year: 1978
+      start_date: July 24
+      end_date: July 28
+      name: 4th International Congress of Pesticide Chemistry (IUPAC)
+      loc: Zurich, Switzerland
+    - year: 1974
+      start_date: July 3
+      end_date: July 9
+      name: 3rd International Congress of Pesticide Chemistry (IUPAC)
+      loc: Helsinki, Finland
+    - year: 1971
+      start_date: February 22
+      end_date: February 26
+      name: 2nd International Congress of Pesticide Chemistry (IUPAC)
+      loc: Tel Aviv, Israel
+    - year: 1963
+      start_date: July 17
+      end_date: July 23
+      name: 1st International Congress of Pesticide Chemistry (IUPAC)
+      loc: London, United Kingdom
+      

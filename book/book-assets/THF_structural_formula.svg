@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 72 77" xmlns="http://www.w3.org/2000/svg" height="77pt" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="72pt">
+ <title>Structural formula of tetrahydrofuran.eps</title>
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L66.2 0 L66.2 70.45 L0 70.45 L0 0 Z"/>
+  </clipPath>
+ </defs>
+ <g inkscape:label="Hintergrund" id="Hintergrund" inkscape:groupmode="layer">
+  <g style="fill:none; stroke:none" clip-path="url(#Clip0)" clip-rule="evenodd" transform="translate(2.85, 4.4) scale(1, 1)" id="Gruppe1">
+   <path style="fill:#000000; fill-rule:nonzero;stroke:none;" transform="translate(24.6562, 0)" d="M8.42188 0 C3.40625 0 0 3.67188 0 9.01562 C0 14.375 3.375 18 8.45312 18 C10.5781 18 12.4531 17.3594 13.875 16.1562 C15.7656 14.5937 16.8906 11.9375 16.8906 9.15625 C16.8906 3.64062 13.5625 0 8.42188 0 Z M8.42188 1.96875 C12.2188 1.96875 14.6562 4.76562 14.6562 9.10937 C14.6562 13.2344 12.1406 16.0469 8.45312 16.0469 C4.70312 16.0469 2.23438 13.2344 2.23438 9.01562 C2.23438 4.79688 4.70312 1.96875 8.42188 1.96875 Z"/>
+   <path style="fill:#000000; fill-rule:nonzero;stroke:none;" transform="translate(12.65, 68.75)" d="M39.65 0 L40.9 1.7 L0 1.7 L1.2 0 L39.65 0 Z"/>
+   <path style="fill:#000000; fill-rule:nonzero;stroke:none;" transform="translate(52.3, 31.55)" d="M11.9 0.65 L13.9 0 L1.25 38.9 L0 37.2 L11.9 0.65 Z"/>
+   <path style="fill:#000000; fill-rule:nonzero;stroke:none;" transform="translate(41.85, 14.6)" d="M0 1.35 L1 0 L24.35 16.95 L22.35 17.6 L0 1.35 Z"/>
+   <path style="fill:#000000; fill-rule:nonzero;stroke:none;" transform="translate(0, 14.5)" d="M2 17.7 L0 17.05 L23.45 0 L24.45 1.4 L2 17.7 Z"/>
+   <path style="fill:#000000; fill-rule:nonzero;stroke:none;" transform="translate(0, 31.55)" d="M13.85 37.2 L12.65 38.9 L0 0 L2 0.65 L13.85 37.2 Z"/>
+  </g>
+ </g>
+</svg>

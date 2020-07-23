@@ -1,0 +1,18 @@
+---
+title: Commonly used solvents in organic chemistry
+date: 2020-07-22
+slug: ochem-solvents
+---
+
+# Commonly used solvents in organic chemistry
+
+## Summary
+<SolventSummary />
+
+## Tetrahydrofuran (THF)
+* A cyclic ether, THF is a water-miscible with low viscosity.
+* It is a aprotic, moderately polar solvent that can dissolve a wide range of non polar and polar chemical compounds.
+* THF is often used in polymer science.
+* THF is a popular solvent for hydroboration reactions and organometallic compounds.
+
+![THF structural formula](../assets/THF_structural_formula.svg)

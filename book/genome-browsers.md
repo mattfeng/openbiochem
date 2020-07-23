@@ -1,0 +1,12 @@
+---
+
+
+---
+
+# An Introduction to Genome Browsers
+
+* A **track** in a genome browser is a set of precomputed annotation data.
+
+## References
+
+* Jun Wang, Lei Kong, Ge Gao, Jingchu Luo, A brief introduction to web-based genome browsers, _Briefings in Bioinformatics_, Volume 14, Issue 2, March 2013, Pages 131–143, https://doi.org/10.1093/bib/bbs029

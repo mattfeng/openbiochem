@@ -1,0 +1,269 @@
+# source: https://en.wikipedia.org/wiki/Category:Research_institutes_in_the_United_States
+
+# - uid:
+#   name:
+#   about:
+#   fields:
+#   loc:
+#   zip:
+#   lat:
+#   lon:
+#   url:
+
+- uid: DPI
+  former_names:
+    - name: A.J. Drexel Plasma Institute
+      note: original name, changed due to donation
+  name: Nyheim Plasma Institute
+  fields:
+    - plasma
+    - biomedicine
+  loc: Camden, New Jersey, U.S.
+  zip: 08103
+  lat: 39.944298
+  lon: -75.125903
+  url: https://drexel.edu/nyheiminstitute/
+
+- uid: AHMCT
+  name: Advanced Highway Maintenance and Construction Technology Research Center
+  about: >
+    The mission of the AHMCT Research Center is to perform applied and basic
+    research leading to the development of innovative technologies in the
+    areas of highway and civil infrastructure construction, maintenance, and
+    operations, and the ultimate deployment of these technologies. 
+    The focus is on safety, mobility, lean operations, reliability, and
+    minimizing environmental impacts. To achieve this, we leverage and
+    combine Advanced Automation and Robotics, Information Technology,
+    Sensing and Mechatronics, Design and Sustainability, Life Cycle Analysis,
+    and Advanced Communication and Computer Technologies.
+  fields:
+    - robotics
+    - communications
+    - mechatronics
+  loc: David, California, U.S.
+  zip: 95616
+  lat: 38.897759
+  lon: -121.063314
+  url: http://ahmct.ucdavis.edu/
+
+- uid: ALTI
+  name: Altarum Institute
+  about: >
+    Altarum works with government and private insurers, health systems and
+    provider organizations, and foundations to improve health outcomes of
+    Medicare and Medicaid beneficiaries. We achieve measurable results by
+    combining our expertise in public health and health care delivery with
+    applied research and analytics, technology, continuing education,
+    advisory services, and program implementation. Our innovative solutions
+    lead to better value for payers and better health for all.
+  fields:
+    - health insurance
+    - health systems
+  loc: Ann Arbor, Michigan
+  zip: 48015
+  lat: 42.302027
+  lon: -83.689778
+  url: https://altarum.org/
+
+- uid: AEI
+  name: Alternative Energy Institute
+  status: Defunct
+  closed: September 30, 2015
+  about:
+  fields:
+    - alternative energy
+    - solar energy
+    - wind energy
+  loc:
+  zip:
+  lat:
+  lon:
+  url: n/a
+
+- uid: CNST
+  name: Center for Nanoscale Science and Technology
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url: http://nano.illinois.edu/about/index.html
+
+- uid: CIPS
+  name: Center for Integrated Pasma Studies
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid: MSKCC
+  name: Memorial Sloan Ketterling Cancer Center
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid: WTSI
+  name: The Wellcome Trust Sanger Institute
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid: STANFORD
+  name: Stanford University
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid: MIT
+  name: Massachusetts Institute of Technology
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid: MPS
+  name: Max Planck Society
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid: 
+  name: Max Planck Institute of Chemistry
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid:
+  name: Max Planck Institute for Chemical Energy Conversion
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid: CNRS
+  name: French National Centre for Scientific Research
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid:
+  name: Nanjing University
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid:
+  name: Peking University
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid:
+  name: Merkin Institute for Transformative Technology in Healthcare
+  parent: Broad Institute
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid:
+  name: Tsinghua University
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid:
+  name: University of Science and Technology of China
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid:
+  name: Northwestern University
+  about:
+  fields:
+  loc:
+  zip:
+  lat:
+  lon:
+  url:
+
+- uid:
+  name: Center for Discovery Brain Sciences
+  parent: University of Edinburgh
+  about:
+  fields:
+  loc: Edinburgh, Scotland
+  zip:
+  lat:
+  lon:
+  url:
+
+- name: Howard Hughes Medical Institute
+
+- name: Janelia Research Campus
+  parent: Howard Hughes Medical Institute
+
+- name: Whitehead Institute
+
+- name: King Abdulaziz University
+
+- name: Australian Regenerative Medicine Institute
+  parent: Monash University
+
+- name: Parker Institute for Cancer Immunotherapy
+
+- name: Chan Zuckerberg Biohub

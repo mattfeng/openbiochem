@@ -1,0 +1,11 @@
+---
+title: Protein folding
+date: 2020-07-22
+slug: protein-folding
+---
+
+# Protein folding
+
+* 2-Mercaptoethanol is often used to reduce disulfide bonds and aids in protein folding so that proteins do become stuck in suboptimal conformations.
+
+* Protein disulfide-isomerase

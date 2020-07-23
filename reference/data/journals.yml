@@ -1,0 +1,119 @@
+publishers:
+  - name[id]: Springer Nature
+    subsidiaries[publishers]:
+      - Palgrave Macmillan
+      - Springer Science+Business Media
+      - BioMed Central
+    publications[journals]:
+      - Scientific American
+
+  - name[id]: Palgrave Macmillan
+    publications[books]:
+      - The Statesman's Yearbook
+
+  - name[id]: Springer Science+Business Media
+
+  - name[id]: BioMed Central
+    publications[journals]:
+      - BMC Biology
+      - BMC Medicine
+      - Genome Biology
+
+  - name[id]: Nature Research
+    publications[journals]:
+      - Nature
+      - Nature Communications
+      - Nature Astronomy
+      - Nature Biomedical Engineering
+      - Nature Biotechnology
+      - Nature Cancer
+      - Scientific Reports
+  
+  - name[id]: Frontiers Media
+    marked: true
+
+journals:
+  - name[id]: Nature
+  - name[id]: Nature Communications
+  - name[id]: Nature Astronomy
+  - name[id]: Nature Biomedical Engineering
+  - name[id]: Nature Biotechnology
+  - name[id]: Nature Cancer
+  - name[id]: Nature Catalysis
+  - name[id]: Nature Cell Biology
+  - name[id]: Nature Chemical Biology
+  - name[id]: Nature Chemistry
+  - name[id]: Nature Climate Change
+  - name[id]: Nature Ecology and Evolution
+  - name[id]: Nature Electronics
+  - name[id]: Nature Energy
+  - name[id]: Nature Food
+  - name[id]: Nature Genetics
+  - name[id]: Nature Geoscience
+  - name[id]: Nature Human Behaviour
+  - name[id]: Nature Immunology
+  - name[id]: Nature Machine Intelligence
+  - name[id]: Nature Materials
+  - name[id]: Nature Medicine
+  - name[id]: Nature Metabolism
+  - name[id]: Nature Methods
+  - name[id]: Nature Microbiology
+  - name[id]: Nature Nanotechnology
+  - name[id]: Nature Neuroscience
+  - name[id]: Nature Photonics
+  - name[id]: Nature Physics
+  - name[id]: Nature Plants
+  - name[id]: Nature Protocols
+  - name[id]: Nature Reviews Cancer
+  - name[id]: Nature Reviews Cardiology
+  - name[id]: Nature Reviews Chemistry
+  - name[id]: Nature Reviews Clinical Oncology
+  - name[id]: Nature Reviews Disease Primers
+  - name[id]: Nature Reviews Drug Discovery
+  - name[id]: Nature Reviews Earth and Environment
+  - name[id]: Nature Reviews Endocrinology
+  - name[id]: Nature Reviews Gastroenterology & Hepatology
+  - name[id]: Nature Reviews Genetics
+  - name[id]: Nature Reviews Immunology
+  - name[id]: Nature Reviews Materials
+  - name[id]: Nature Reviews Microbiology
+  - name[id]: Nature Reviews Molecular Cell Biology
+  - name[id]: Nature Reviews Nephrology
+  - name[id]: Nature Reviews Neurology
+  - name[id]: Nature Reviews Neuroscience
+  - name[id]: Nature Reviews Physics
+  - name[id]: Nature Reviews Rheumatology
+  - name[id]: Nature Reviews Urology
+  - name[id]: Nature Structural & Molecular Biology
+  - name[id]: Nature Sustainability
+  - name[id]: npj Aging and Mechanisms of Disease
+  - name[id]: npj Biofilms and Microbiomes
+  - name[id]: npj Breast Cancer
+  - name[id]: npj Clean Water
+  - name[id]: npj Climate and Atmospheric Science
+  - name[id]: npj Computational Materials
+  - name[id]: npj Genomic Medicine
+  - name[id]: npj Materials Degradation
+  - name[id]: npj Microgravity
+  - name[id]: npj Parkinson's Disease
+  - name[id]: npj Precision Oncology
+  - name[id]: npj Primary Care Respiratory Medicine
+  - name[id]: npj Quantum Information
+  - name[id]: npj Quantum Materials
+  - name[id]: npj Regenerative Medicine
+  - name[id]: npj Schizophrenia
+  - name[id]: npj Science of Food
+  - name[id]: npj Science of Learning
+  - name[id]: npj Systems Biology and Applications
+  - name[id]: npj Vaccines
+  - name[id]: Scientific American
+  - name[id]: Scientific American archive
+  - name[id]: Scientific Data
+  - name[id]: Scientific Reports
+
+  - name[id]: BMC Biology
+  - name[id]: BMC Medicine
+  - name[id]: Genome Biology
+
+books:
+  - name[id]: The Statemen's Yearbook

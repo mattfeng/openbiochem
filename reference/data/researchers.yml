@@ -1,0 +1,497 @@
+- name: Alejandro Franco
+- name: Raphaël Rodriguez
+- name: Tu Youyou
+- name: Stephen Buchwald
+  affl: Massachusetts Institute of Technology
+
+- name: Jeremiah Johnson
+  affl: Massachusetts Institute of Technology
+
+- name: Timothy Swager
+  affl: Massachusetts Institute of Technology
+
+- name: Emily Weiss
+  affl: Northwestern University
+
+- name: Chad Mirkin
+  affl: Northwestern University
+
+- name: W. E. Moerner
+  affl: Stanford University
+- name: Frank Abild-Pederson
+  affl: Stanford University
+- name: Carolyn Bertozzi
+  affl: Stanford University
+- name: Paul Blainey
+  affl: Broad Institute
+- name: Todd Golub
+  affl: Broad Institute
+- name: Myriam Heiman
+  affl: Broad Institute
+- name: Deborah Hung
+  affl: Broad Institute
+
+- name: Stuart Schreiber
+  affl: Broad Institute
+
+- name: Edward Scolnick
+  affl: Broad Institute
+
+- name: Feng Zhang
+  affl: Broad Institute
+
+- name: Dan Littman
+  affl: Skirball Institute of Biomolecular Medicine
+
+- name: David Baltimore
+  affl: California Institute of Technology
+
+- name: Joseph Goldstein
+  affl: UT Southwestern Medical Center
+  
+- name: Bonnie Bassler
+  affl: Princeton University
+
+- name: Cynthia Kenyon
+  affl: University of California San Francisco
+
+- name: Kevan Shokat
+  affl: University of California San Francisco
+
+- name: Julie Theriot
+  affl: University of Washington
+
+- name: Harold Varmus
+  affl: Weill Cornell Medical College
+
+- name: Huda Zoghbi
+  affl: Jan and Dan Duncan Neurological Research Institute
+
+- name: Denis C. Bauer
+  affl: University of Queensland
+
+- name: Bradley Bernstein
+  affl:
+    - Broad Institute
+  roles:
+    - Program Director of Epigenomics at Broad Institute
+
+- name: Bruce Birren
+  affl:
+    - Broad Institute
+  role: 
+    - Program Director of the Genomic Center for Infectious Diseases, Broad Institute
+
+- name: Hilary Finucane
+  affl:
+    - Broad Institute
+  role:
+    - Program Director of Medical and Population Genetics, Broad Institute
+
+Jose Florez
+Todd Golub
+Deborah Hung
+Nir Hacohen
+Joel Hirschhorn
+Steve Hyman
+Cigall Kadock
+Sekar Kathiresan
+Daniel MacArthur
+
+
+- name: Anne Carpenter
+  affl:
+    - Broad Institute
+  role:
+    - Platform Director of Imaging, Broad Institute
+
+- name: Steven Carr
+  affl:
+    - Broad Institute
+  role:
+    - Platform Director of Proteomics, Broad Institute
+
+- name: Clary Clish
+  affl:
+    - Broad Institute
+  role:
+    - Platform Director of Metabolomics, Broad Institute
+
+- name: Stacey Gabriel
+  affl:
+    - Broad Institute
+  role:
+    - Platform Director of Genomics, Broad Institute
+
+- name: Anthony Philippakis
+  affl:
+    - Broad Institute
+  role:
+    - Platform Director of Data Sciences, Broad Institute
+
+- name: David Root
+  affl:
+    - Broad Institute
+  role:
+    - Platform Director of Genetic Perturbation, Broad Institute
+
+- name: Eric Lander
+  affl:
+  - Broad Institute
+
+- name: Paul Blainey
+  affl:
+  - Broad Institute
+
+- affl:
+  - Broad Institute
+  name: Fei Chen
+
+- affl:
+  - Broad Institute
+  name: Todd Golub
+
+- affl:
+  - Broad Institute
+  name: Myriam Heiman
+
+- affl:
+  - Broad Institute
+  name: Deborah Hung
+
+- affl:
+  - Broad Institute
+  name: Steven Hyman
+
+- name: David Liu
+  affl:
+    - Broad Institute
+  roles:
+    - Program Director of Chemical and Therapeutic Sciences, Broad Institute
+
+- name: Aviv Regev
+  affl:
+    - Broad Institute
+  roles:
+    - Program Directory of Cell Circuits, Broad Institute
+
+- affl:
+  - Broad Institute
+  name: Stuart Schreiber
+
+- affl:
+  - Broad Institute
+  name: Edward Scolnick
+
+- affl:
+  - Broad Institute
+  name: William Sellers
+
+- affl:
+  - Broad Institute
+  name: Morgan Sheng
+
+- name: Xiao Wang
+  affl:
+    - Broad Institute
+
+- name: Ramnik Xavier
+  affl:
+    - Broad Institute
+  roles:
+    - Program Director of Infectious Disease and Microbiome, Broad Institute
+
+- affl:
+  - Broad Institute
+  name: Feng Zhang
+
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  name: Eric Alm
+
+- affl:
+  - Broad Institute
+  - Brigham and Women's Hospital
+  - Harvard Medical School
+  name: Ana Anderson
+
+- affl:
+  - Broad Institute
+  - Harvard University
+  name: Paola Arlotta
+
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard Medical School
+  name: Martin Aryee
+- affl:
+  - Broad Institute
+  - Harvard University
+  - Massachusetts Institute of Technology
+  name: Emily Balskus
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard University
+  name: Brad Bernstein
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  - Brigham and Women's Hospital
+  name: Sangeeta Bhatia
+- affl:
+  - Broad Institute
+  - Beth Israel Beaconess Medical Center
+  - Harvard Medical School
+  name: Melina Claussnitzer
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  - Harvard University
+  name: Jim Collins
+
+- name: Mark Daly
+  affl:
+    - Broad Institute
+    - Massachusetts General Hospital
+    - Harvard Medical School
+  roles:
+    - Program Director of Medical and Population Genetics, Broad Institute
+
+- name: Ben Ebert
+  affl:
+  - Broad Institute
+  - Brigham and Women's Hospital
+  - Harvard Medical School
+
+- affl:
+  - Broad Institute
+  - Harvard University
+  name: Kevin Eggan
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard Medical School
+  name: Patrick Ellinor
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  name: Guoping Feng
+- affl:
+  - Broad Institute
+  - Harvard Medical School
+  name: Gord Fishell
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard Medical School
+  name: Jose Florez
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard Medical School
+  name: Gad Getz
+- affl:
+  - Broad Institute
+  - Brigham and Women's Hospital
+  - Harvard Medical School
+  name: Anna Greka
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard Medical School
+  name: Nir Hacohen
+- affl:
+  - Broad Institute
+  - Dana-Farber Cancer Institute
+  - Harvard Medical School
+  name: William Hahn
+
+- name: Joel Hirschhorn
+  affl:
+    - Broad Institute
+    - Boston Children's Hospital
+    - Harvard Medical School
+  roles:
+    - Program Director of Metabolism, Broad Institute
+
+- name: Cigall Kadoch
+  affl:
+    - Broad Institute
+    - Dana-Farber Cancer Institute
+    - Harvard Medical School
+  roles:
+    - Program Director of Epigenomics, Broad Institute
+
+- affl:
+  - Broad Institute
+  - Beth Israel Beaconess Medical Center
+  - Harvard Medical School
+  name: Barbara Kahn
+
+- name: Sekar Kathiresan
+  affl:
+    - Broad Institute
+    - Massachusetts General Hospital
+    - Harvard Medical School
+  roles:
+    - Program Co-director of Medical and Population Genetics, Broad Institute
+    - Program Director of Cardiovascular Disease, Broad Institute
+
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  name: Laura Kiessling
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  name: Angela Koehler
+- affl:
+  - Broad Institute
+  - Brigham and Women's Hospital
+  - Harvard Medical School
+  name: Vijay Kuchroo
+
+- name: Daniel MacArthur
+  affl:
+    - Broad Institute
+    - Massachusetts General Hospital
+    - Harvard Medical School
+  roles:
+    - Program Director of Medical and Population Genetics, Broad Institute
+
+- name: Steve McCarroll
+  affl:
+  - Broad Institute
+  - Harvard Medical School
+
+- name: Eric Banks
+- name: Alex Bloemendal
+- name: Jesse Boehm
+- name: Paul Clemons
+- name: Sheila Dodge
+- name: John Doench
+- name: Ashlee Earl
+- name: Virendar Kaushik
+- name: Niall Lennon
+- name: Jen Pan
+- name: David Root
+- name: Orit Rozenblatt-Rosen
+- name: Cotton Seed
+- name: Bridget Wagner
+- name: Forence Wagner
+
+- name: Matthew Meyerson
+  affl:
+  - Broad Institute
+  - Dana-Farber Cancer Institute
+  - Harvard Medical School
+
+- name: Vamsi Mootha
+  affl:
+    - Broad Institute
+    - Massachusetts General Hospital
+    - Harvard Medical School
+  roles:
+    - Program Director of Metabolism, Broad Institute
+
+- affl:
+  - Broad Institute
+  - Brigham and Women's Hospital
+  - Harvard Medical School
+  name: Cynthia Morton
+
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard Medical School
+  name: Ben Neale
+
+- affl:
+  - Broad Institute
+  - Brigham and Women's Hospital
+  - Harvard Medical School
+  name: Soumya Raychaudhuri
+
+- affl:
+  - Broad Institute
+  - Brigham and Women's Hospital
+  - Harvard Medical School
+  name: Heidi Rehm
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard Medical School
+  name: Miguel Rivera
+- affl:
+  - Broad Institute
+  - Harvard University
+  - Massachusetts General Hospital
+  name: Elise Robinson
+- affl:
+  - Broad Institute
+  - Beth Israel Beaconess Medical Center
+  - Harvard Medical School
+  name: Evan Rosen
+- affl:
+  - Broad Institute
+  - Harvard University
+  - Harvard School of Public Health
+  name: Pardis Sabeti
+- affl:
+  - Broad Institute
+  - Harvard Medical School
+  name: Christine E. Seidman
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  name: Alex Shalek
+- affl:
+  - Broad Institute
+  - Brigham and Women's Hospital
+  - Dana-Farber Cancer Institute
+  - Harvard Medical School
+  name: Arlene Sharpe
+- affl:
+  - Broad Institute
+  - Dana-Farber Cancer Institute
+  - Harvard Medical School
+  name: Kimberly Stegmaier
+- affl:
+  - Broad Institute
+  - Boston Children's Hospital
+  - Harvard Medical School
+  name: Beth Stevens
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  name: "Mario Suv\xE0"
+- affl:
+  - Broad Institute
+  - Massachusetts General Hospital
+  - Harvard Medical School
+  name: Michael Talkowski
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  name: Matthew Vander Heiden
+- affl:
+  - Broad Institute
+  - Massachusetts Institute of Technology
+  name: Chris Voigt
+- affl:
+  - Broad Institute
+  - Dana-Farber Cancer Institute
+  - Harvard Medical School
+  name: Nikhil Wagle
+- affl:
+  - Broad Institute
+  - Harvard School of Public Health
+  name: Dyann Wirth
+- affl:
+  - Broad Institute
+  - Dana-Farber Cancer Institute
+  - Harvard Medical School
+  name: Cathy Wu

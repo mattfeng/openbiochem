@@ -1,66 +1,47 @@
-# Tools in Computational Biology and Chemistry
+# open-biochem: Open resources for biology, chemistry, and computation.
 
-* PyMOL
-    * tags: #visualization
-* Chimera
-    * tags: #visualization
-* VMD (Visual Molecular Dynamics)
-    * tags: #visualization
-* BOSS
-* DALI
-    * tags: #database
-* Pfam
-    * tags: #database
-* PANNZER
-    * tags: #database
-* RCSB PDB (wwPDB)
-    * tags: #database
-* BLAST
-    * tags: #database
-* Rosetta
-* Foldit
-* CCP4
-    * tags: #pdbx, #processing, #visualization
-* PHENIX
-* Global Phasing BUSTER
-* JSMol
-* LiteMole
-* Molmil
-* NGL
-* RasMol/OpenRasMol
-    * tags: #visualization, #legacy
+## How this repository is organized
+* TODO
 
-## Molecular Dynamics
-* GROMACS
-* AMBER
-    * Antechamber 
-* NAMD
-    * psfgen
-* CHARMM
-* OpenMM
+## Book
 
-## Monte Carlo
-* MCPRO
+### 📝 Incomplete drafts
+* [ ] Protein folding
+* [ ] Genome browsers
+* [ ] Data sources
+* [ ] Immune system, Human leukocyte antigen ([Wikipedia](https://en.wikipedia.org/wiki/Human_leukocyte_antigen))
 
-## Force Fields
-* DRUDE
-* OPLS
+## 📜 Papers and resources
 
-## Models
-* AM1 (Austin Model 1)
+### 🌺 Biology
 
-## Bioinformatics
-* PanPhlAn (https://github.com/SegataLab/panphlan)
-    * tags: #pangenomics
-* Roary (https://sanger-pathogens.github.io/Roary/)
-    * tags: #pangenomics
-* Prokka
-* SMAP
-* FATCAT
-* eHits
+#### 🧬  Sequence analysis
+* Linked de Bruijn graphs (LdBG)
+    * What information do they encode? Why are they useful?
+* Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences
+    * How can we continue to extend Transformer and related NLP architectures to biological sequences? Are there even more pre-training tasks we can use?
 
-# Blogs
-* Molecular Modeling Basics (https://molecularmodelingbasics.blogspot.com/)
-    * Website of Jan H. Jensen (PI of Jan H. Jensen Research Group of the Department of Chemistry, University of Copenhagen)
-    * tags: #chemistry
+#### 🌌 Protein folding
+* Topological determinants of protein folding
+    * What is the right mathematical model to use to develop theory about protein folding?
 
+#### 💻 Computational biology
+* Computational genomics course ([YouTube](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn))
+* IGV Jupyter widgets
+* IGV ([User Guide](https://software.broadinstitute.org/software/igv/UserGuide))
+* Bandage ([Documentation](https://github.com/rrwick/Bandage/wiki)
+* NCBI Toolbox ([Documentation](https://www.ncbi.nlm.nih.gov/IEB/ToolBox/index.cgi))
+
+#### 🧠 Knowledge bases and datasets
+* DrugBank: a comprehensive resource for _in silico_ drug discovery and exploration ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
+
+### 🧭 Mathematics
+* Why is the number of distinct de Bruijn sequences B(k, n) equal to (k!)^(k^(n-1)) / (k^n)?
+
+### 📊 Data Visualization
+* Vega Visualization Grammar for Graphing ([Documentation](https://vega.github.io))
+
+## Other Repositories
+* Awesome Bioinformatics ([repo](https://github.com/danielecook/Awesome-Bioinformatics))
+* Biotools ([repo](https://github.com/jdidion/biotools))
+* Repository of medical data ([repo](https://github.com/beamandrew/medical-data))
