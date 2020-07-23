@@ -16,3 +16,6 @@ slug: ochem-solvents
 * THF is a popular solvent for hydroboration reactions and organometallic compounds.
 
 ![THF structural formula](../assets/THF_structural_formula.svg)
+
+## Dimethyl sulfide (DMS)
+* Chemical formula (CH3)2S

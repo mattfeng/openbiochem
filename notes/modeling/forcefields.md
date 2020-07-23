@@ -21,3 +21,18 @@
 * The **principal remaining problem** resides in **assignment of partial atomic charges**.
 * Charge model (CM) charges from Cramer and Truhlar et al. are derived from semiempirical calculations using **Austin Model 1** or **Parametric Model 3**.
 * TMD (temperature of maximum density) and melting point require very long simululations for _ab initio_ methods.
+
+## CHARMM
+
+* The CHARMM force field is divided into
+    * a topology file
+    * a parameter file
+
+### The topology file
+    * defines the **atom types** used in the force field.
+    * atom names, types, bonds, and partial charges of each residue type
+    * any _patches_ necessary to link or mutate the basic residue.
+
+### The parameter file
+    * supplies the specific numerical values for the generic CHARMM potential function.
+
