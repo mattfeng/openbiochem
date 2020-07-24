@@ -1,4 +1,10 @@
-# open-biochem: Open resources for biology, chemistry, and computation.
+# open-biochem
+
+<p align="center">
+  <img alt="logo" src="./assets/logo.png">
+</p>
+
+Open resources for biology, chemistry, and computation.
 
 ## How this repository is organized
 ```
