@@ -58,6 +58,9 @@ Open resources for biology, chemistry, and computation.
 ### 📊 Data Visualization
 * Vega Visualization Grammar for Graphing ([Documentation](https://vega.github.io))
 
+## 📦 Projects
+* **Protein visualizations and explanations.** An educational website that displays many of the commonly encountered proteins in biology, and contains a guided explanation (e.g. waypoints and arrows) of how the protein functions.
+
 ## Other Repositories
 * Awesome Bioinformatics ([repo](https://github.com/danielecook/Awesome-Bioinformatics))
 * Biotools ([repo](https://github.com/jdidion/biotools))

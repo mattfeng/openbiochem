@@ -1,0 +1,21 @@
+amino_acid,abbrv,symbol,charge
+Aspartic acid,Asp,D,negative charge
+Glutamic acid,Glu,E,negative charge
+Arginine,Arg,R,positive charge
+Lysine,Lys,K,positive charge
+Histidine,His,H,positive charge
+Asparagine,Asn,N,uncharged polar
+Glutamine,Gln,Q,uncharged polar
+Serine,Ser,S,uncharged polar
+Threonine,Thr,T,uncharged polar
+Tyrosine,Tyr,Y,uncharged polar
+Alanine,Ala,A,nonpolar
+Glycine,Gly,G,nonpolar
+Valine,Val,V,nonpolar
+Leucine,Leu,L,nonpolar
+Isoleucine,Ile,I,nonpolar
+Proline,Pro,P,nonpolar
+Phenylalanine,Phe,F,nonpolar
+Methionine,Met,M,nonpolar
+Tryptophan,Trp,W,nonpolar
+Cysteine,Cys,C,nonpolar
