@@ -1,7 +1,7 @@
 # open-biochem
 
 <p align="center">
-  <img height="200px" alt="logo" src="./assets/logo.png">
+  <img width="450px" alt="logo" src="./assets/logo.png">
 </p>
 
 Open resources for biology, chemistry, and computation.
