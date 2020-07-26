@@ -61,6 +61,9 @@ Open resources for biology, chemistry, and computation.
 ## 📦 Projects
 * **Protein visualizations and explanations.** An educational website that displays many of the commonly encountered proteins in biology, and contains a guided explanation (e.g. waypoints and arrows) of how the protein functions.
 
+## Courses
+* **MIT 20.380: Biological Engineering Design.**
+
 ## Other Repositories
 * Awesome Bioinformatics ([repo](https://github.com/danielecook/Awesome-Bioinformatics))
 * Biotools ([repo](https://github.com/jdidion/biotools))

@@ -8,6 +8,8 @@ slug: glossary
 
 * **_apo_ structure.** the structure of an unbound protein. compare with **_holo_ structure**.
 
+* **chromatin.** the material of which the **chromosomes** of organisms other than bacteria are composed. It consists of protein, RNA, and DNA.
+
 * **congeneric.**
 
 * **contig.**
@@ -15,6 +17,8 @@ slug: glossary
 * **covalent radius.**
 
 * **ectopic.**
+
+* **epigenomics states.** structural configurations of **chromatin**.
 
 * **genetic polymorphism.**
 * **gene pool.**
@@ -49,7 +53,9 @@ slug: glossary
 
 * **snoRNA.**
 
-* **tRNA.**
+* **transcription factor (TF).** a protein that controls the rate of transcription of genetic information from **DNA** to **mRNA** by binding to a specific DNA sequence.
+
+* **transfer RNA (tRNA).**
 
 * **unitig.**
 
