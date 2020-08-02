@@ -105,3 +105,5 @@
 ## side project
 * build a syntax highlighter for PDB files for VScode: https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide
 
+
+* logP and logD: [https://en.wikipedia.org/wiki/Partition_coefficient](https://en.wikipedia.org/wiki/Partition_coefficient)

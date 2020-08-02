@@ -7,7 +7,7 @@
 import React, { Component } from "react"
 import Layout from "../components/layout"
 import Chem from "../components/formula"
-import { graphql } from "gatsby"
+import { Link, graphql } from "gatsby"
 import { MDXProvider } from "@mdx-js/react"
 import { MDXRenderer } from "gatsby-plugin-mdx"
 import "../styles/classes.scss"
@@ -17,7 +17,7 @@ require(`katex/dist/katex.min.css`)
 
 class Section extends Component {
   render() {
-    const shortcodes = { Chem }
+    const shortcodes = { Chem, Link }
 
     return (
       <Layout>

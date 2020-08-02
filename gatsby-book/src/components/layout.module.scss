@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Martel:wght@400;700;800&family=Trykker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
 
 $titlefont: "Martel", serif;
-$bodyfont: "Trykker", serif;
+$bodyfont: "Libre Baskerville", serif;
 
 .pageContainer {
   max-width: 800px;
@@ -21,7 +22,7 @@ $bodyfont: "Trykker", serif;
 
   p, li, td, th {
     font-family: $bodyfont;
-    font-size: 12pt;
+    font-size: 11pt;
   }
 
   table, td, th {
