@@ -85,9 +85,3 @@
 * SuperLooper (doi: 10.1093/nar/gkp338)
 * Surflex docking software.
 * OpenEye Omega
-
-# Blogs
-* Molecular Modeling Basics (https://molecularmodelingbasics.blogspot.com/)
-    * Website of Jan H. Jensen (PI of Jan H. Jensen Research Group of the Department of Chemistry, University of Copenhagen)
-    * tags: #chemistry
-

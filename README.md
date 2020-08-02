@@ -80,7 +80,6 @@ Open resources for biology, chemistry, and computation.
 
 ### Biology
 
-
 ---
 
 ## 📦 Projects
@@ -92,8 +91,14 @@ Open resources for biology, chemistry, and computation.
 * **MIT 20.380: Biological Engineering Design.**
 
 ---
-## Tutorials
+## Blogs and tutorials
+
+### Bioinformatics
 * **Canadian Bioinformatics Workshops.** ([http](https://bioinformaticsdotca.github.io/))
+
+### Cheminformatics
+* **Practical cheminformatics.** ([http](https://practicalcheminformatics.blogspot.com/?m=1))
+* **Molecular modeling basics.** ([http]((https://molecularmodelingbasics.blogspot.com/))
 
 ---
 
