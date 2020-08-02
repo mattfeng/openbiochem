@@ -29,8 +29,12 @@
 * NGL
 * RasMol/OpenRasMol
     * tags: #visualization, #legacy
+* ICM-Browser ([http](http://www.molsoft.com/icm_browser.html))
 
-## Molecular Dynamics
+## Inorganic chemistry
+* molSimplify
+
+## Molecular dynamics
 * GROMACS
 * AMBER
     * Antechamber 
@@ -38,6 +42,11 @@
     * psfgen
 * CHARMM
 * OpenMM
+* SIESTA ([http](https://departments.icmab.es/leem/siesta/))
+
+* Cresset ([http](https://www.cresset-group.com/software/))
+
+* MOE (Molecular operating environment)
 
 ## Monte Carlo
 * MCPRO
@@ -71,6 +80,11 @@
 * BioDAS
 * Epigenome Roadmap Genome Browser
 * Cistrome
+
+* Orientations of Proteins in Membranes Database (OPM database)
+* SuperLooper (doi: 10.1093/nar/gkp338)
+* Surflex docking software.
+* OpenEye Omega
 
 # Blogs
 * Molecular Modeling Basics (https://molecularmodelingbasics.blogspot.com/)

@@ -20,6 +20,8 @@ Open resources for biology, chemistry, and computation.
 ├── tools.md    # A list of tools used in research and education.
 └── usnco/      # Resources related to the United States National Chemistry Olympiad.
 ```
+---
+
 ## Book
 
 ### 📝 Incomplete drafts
@@ -27,6 +29,8 @@ Open resources for biology, chemistry, and computation.
 * [ ] Genome browsers
 * [ ] Data sources
 * [ ] Immune system, Human leukocyte antigen ([Wikipedia](https://en.wikipedia.org/wiki/Human_leukocyte_antigen))
+
+---
 
 ## 📜 Papers and resources
 
@@ -52,17 +56,42 @@ Open resources for biology, chemistry, and computation.
 #### 🧠 Knowledge bases and datasets
 * DrugBank: a comprehensive resource for _in silico_ drug discovery and exploration ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
 
+### Chemistry
+
+#### Computational chemistry
+* Wang, L., Titov, A., McGibbon, R. _et al_. Discovering chemistry with an _ab initio_ nanoreactor. _Nature Chem 6_, 1044–1048 (2014). https://doi.org/10.1038/nchem.2099
+* Kohlhoff KJ, Shukla D, Lawrenz M, et al. Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways [published correction appears in Nat Chem. 2015 Sep;7(9):759]. _Nat Chem_. 2014;6(1):15-21. doi:10.1038/nchem.1821
+
 ### 🧭 Mathematics
 * Why is the number of distinct de Bruijn sequences B(k, n) equal to (k!)^(k^(n-1)) / (k^n)?
 
 ### 📊 Data Visualization
 * Vega Visualization Grammar for Graphing ([Documentation](https://vega.github.io))
 
+---
+
+## Books
+
+### Chemistry
+
+#### Computational chemistry
+* Cramer, **Essentials of Computational Chemistry: Theories and Models**. 
+* Koch and Holthausen, **A Chemist's Guide to Density Functional Theory**.
+
+### Biology
+
+
+---
+
 ## 📦 Projects
 * **Protein visualizations and explanations.** An educational website that displays many of the commonly encountered proteins in biology, and contains a guided explanation (e.g. waypoints and arrows) of how the protein functions.
 
+---
+
 ## Courses
 * **MIT 20.380: Biological Engineering Design.**
+
+---
 
 ## Other Repositories
 * Awesome Bioinformatics ([repo](https://github.com/danielecook/Awesome-Bioinformatics))
