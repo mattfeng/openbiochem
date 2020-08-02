@@ -92,8 +92,12 @@ Open resources for biology, chemistry, and computation.
 * **MIT 20.380: Biological Engineering Design.**
 
 ---
+## Tutorials
+* **Canadian Bioinformatics Workshops.** ([http](https://bioinformaticsdotca.github.io/))
+
+---
 
 ## Other Repositories
-* Awesome Bioinformatics ([repo](https://github.com/danielecook/Awesome-Bioinformatics))
-* Biotools ([repo](https://github.com/jdidion/biotools))
-* Repository of medical data ([repo](https://github.com/beamandrew/medical-data))
+* Awesome Bioinformatics. ([repo](https://github.com/danielecook/Awesome-Bioinformatics))
+* Biotools. ([repo](https://github.com/jdidion/biotools))
+* Repository of medical data. ([repo](https://github.com/beamandrew/medical-data))
