@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@400;700;800&family=Trykker&display=swap');
+
+$titlefont: "Martel", serif;
+$bodyfont: "Trykker", serif;
+
+.pageContainer {
+  max-width: 800px;
+  min-width: 800px;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  h1 {
+    font-family: $titlefont;
+    font-weight: 900;
+  }
+
+  h2 {
+    font-family: $titlefont;
+  }
+
+  p, li, td, th {
+    font-family: $bodyfont;
+    font-size: 12pt;
+  }
+
+  table, td, th {
+    margin: auto;
+    border: 1px solid lightgray;
+    padding: 4px;
+  }
+
+  table {
+    border-collapse: collapse;
+    margin-bottom: 10px;
+  }
+}
