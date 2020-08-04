@@ -82,12 +82,18 @@ Open resources for biology, chemistry, and computation.
 
 ---
 
-## 📦 Projects
+## 📦 Potential projects
 * **Protein visualizations and explanations.** An educational website that displays many of the commonly encountered proteins in biology, and contains a guided explanation (e.g. waypoints and arrows) of how the protein functions.
 
 ---
 
-## Courses
+## 🎞️ Videos
+
+* **Broad@15 Talk Series: The March Toward Cancer Precision Medicine.** ([http](https://www.youtube.com/watch?v=DQhocaLzHWE))
+
+---
+
+## 🍎 Courses
 * **MIT 20.380: Biological Engineering Design.**
 
 ---
@@ -102,7 +108,7 @@ Open resources for biology, chemistry, and computation.
 
 ---
 
-## Other Repositories
+## 📁 Other Repositories
 * Awesome Bioinformatics. ([repo](https://github.com/danielecook/Awesome-Bioinformatics))
 * Biotools. ([repo](https://github.com/jdidion/biotools))
 * Repository of medical data. ([repo](https://github.com/beamandrew/medical-data))
