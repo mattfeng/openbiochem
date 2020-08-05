@@ -95,6 +95,7 @@ Open resources for biology, chemistry, and computation.
 
 ## 🍎 Courses
 * **MIT 20.380: Biological Engineering Design.**
+* **MIT 10.637: Quantum Chemical Simulation.** ([http](http://hjkgrp.mit.edu/content/10637-quantum-chemical-simulation-lecture-1))
 
 ---
 ## Blogs and tutorials
