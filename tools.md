@@ -31,6 +31,8 @@
     * tags: #visualization, #legacy
 * ICM-Browser ([http](http://www.molsoft.com/icm_browser.html))
 
+* Seurat ([http](https://satijalab.org/seurat/))
+
 ## Inorganic chemistry
 * molSimplify
 

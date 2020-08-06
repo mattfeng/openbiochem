@@ -1,0 +1,42 @@
+---
+title: Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences
+date: 2020-08-05
+slug: protein-seq-nlp
+---
+
+## Introduction
+* Protein sequences form posterior distribution with latent factors of survivability due to evolution.
+* Can transformers learn an embedding for these latent variables?
+* Used protein sequences from the [[Uniparc database]].
+
+## Background
+* Learned representations from large language models have demonstrated that larger models, more data and more computation can result in strong learned representations.
+* Question: will this also apply to amino acid sequences, which are more like character level models?
+
+## Scaling language models to 250 million diverse protein sequences
+* Validation set of 1 million sequences
+* Inductive bias of self-attention has parallels to parametric distributions used to detect amino acid covariation in multiple sequence alignment.
+* Performance is reported as **average exponentiated cross entropy (ECE)**.
+    * 1 is perfect; 25 is random.
+* n-gram baselines achieve ECE of 10.
+* Largest models able to achieve ECE of 4.31.
+* No model was able to overfit the data.
+
+## Multi-scale organization in sequence representations
+* To disentangle contribution of learning due to model's inductive biases from learning due to data, compare against
+    * untrained contextual algnauge models
+    * frequency baseline mapping sequence to vector of normalized amino acid counts
+
+### Learning encodes biochemical properties (of AAs)
+* Polar/nonpolaer are grouped together
+* Generally organized by molecular weight
+
+### Embeddings of orthologous proteins
+* Transformers encode orthology and species are the two principal axes, where the other baselines are unable to do so.
+
+### Learning encodes sequence alignment features
+
+## Emergence of secondary structure and tertiary contacts
+
+## References
+* https://www.biorxiv.org/content/10.1101/622803v1.full

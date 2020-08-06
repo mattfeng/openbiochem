@@ -1,0 +1,36 @@
+---
+title: Molecular dynamics simulations
+date: 2020-08-06
+slug: md
+---
+
+## _Molecular dynamics simulations: advances and applications_[^1]
+
+### Strategies to improve ensemble generation
+* Most simulations explore only a small region about the energy minimum closest to the initial configuration.
+* Markov state model theory has been used to reconstruct global behavior of multiple parallel simulations.
+* [[Metadynamics]]
+* [[Simulated annealing]] has been gradually replaced by [[replica exchange methods]].
+
+### Setting up MD simulations
+* Standard procedure:
+    1. Fixing structure errors
+    2. Ionization of titrable amino acids
+    3. Addition of structural water molecules, counter ions, and solvent
+    4. Energy minimization and equilibration of system at desired temperature
+
+### Applications
+#### Understanding allostery
+* ?
+
+#### Molecular docking and drug design
+* Molecular recognition process is dynamic, but _current tools assume a rigid structure_.
+* It is possible to introduce flexibility a posteriori.
+* It is still not clear whether structural adjustment comes from the selection of available conformations or is induced by the binding process itself.
+* [[Ensemble docking]] usually uses selection of representative snapshots from a simulation as targets in normal docking procedures.
+
+#### Refining structure predictions
+* Template-based modeling is still the most efficient technique.
+* Starting a single simulation from the predicted structure does not work; using an ensemble works better.
+
+[^1]: Hospital et al., _Molecular dynamics simulations: advances and applications_. ([ipfs](https://ipfs.io/ipfs/QmWsxEjzoqhgsP7HRz1pS5yezhGDe8iZ48FZRiswk8dNTi))
