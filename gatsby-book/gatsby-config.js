@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/open-biochem",
+  pathPrefix: "/openbiochem",
   plugins: [
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
