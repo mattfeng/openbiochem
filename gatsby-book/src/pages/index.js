@@ -7,7 +7,28 @@ class Home extends Component {
     return (
       <Layout>
         <p></p>
-        <Link to="/ochem/">Organic chemistry</Link>
+        <table>
+          <tr>
+            <th>Chapter</th>
+            <th>Description</th>
+          </tr>
+
+          <tr>
+            <td><Link to="/ochem/">Organic chemistry</Link></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <td><Link to="/genomics/">Genomics</Link></td>
+            <td></td>
+          </tr>
+
+          <tr>
+            <td><Link to="/anatomy/">Anatomy</Link></td>
+            <td></td>
+          </tr>
+
+        </table>
       </Layout>
     )
   }

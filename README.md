@@ -56,11 +56,12 @@ Open resources for biology, chemistry, and computation.
 #### 🧠 Knowledge bases and datasets
 * DrugBank: a comprehensive resource for _in silico_ drug discovery and exploration ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
 
-### Chemistry
+### 🧪 Chemistry
 
 #### Computational chemistry
 * Wang, L., Titov, A., McGibbon, R. _et al_. Discovering chemistry with an _ab initio_ nanoreactor. _Nature Chem 6_, 1044–1048 (2014). https://doi.org/10.1038/nchem.2099
 * Kohlhoff KJ, Shukla D, Lawrenz M, et al. Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways [published correction appears in Nat Chem. 2015 Sep;7(9):759]. _Nat Chem_. 2014;6(1):15-21. doi:10.1038/nchem.1821
+* Exploring chemical space using natural language processing. ([arxiv](https://arxiv.org/pdf/2002.06053.pdf))
 
 ### 🧭 Mathematics
 * Why is the number of distinct de Bruijn sequences B(k, n) equal to (k!)^(k^(n-1)) / (k^n)?
