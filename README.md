@@ -32,26 +32,16 @@ Open resources for biology, chemistry, and computation.
 
 ---
 
-## 📜 Papers and resources
+## 📜 Papers
 
 ### 🌺 Biology
 
 #### 🧬  Sequence analysis
-* Linked de Bruijn graphs (LdBG)
-    * What information do they encode? Why are they useful?
 * Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences
-    * How can we continue to extend Transformer and related NLP architectures to biological sequences? Are there even more pre-training tasks we can use?
 
 #### 🌌 Protein folding
-* Topological determinants of protein folding
-    * What is the right mathematical model to use to develop theory about protein folding?
 
 #### 💻 Computational biology
-* Computational genomics course ([YouTube](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn))
-* IGV Jupyter widgets
-* IGV ([User Guide](https://software.broadinstitute.org/software/igv/UserGuide))
-* Bandage ([Documentation](https://github.com/rrwick/Bandage/wiki))
-* NCBI Toolbox ([Documentation](https://www.ncbi.nlm.nih.gov/IEB/ToolBox/index.cgi))
 
 #### 🧠 Knowledge bases and datasets
 * DrugBank: a comprehensive resource for _in silico_ drug discovery and exploration ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
@@ -63,11 +53,31 @@ Open resources for biology, chemistry, and computation.
 * Kohlhoff KJ, Shukla D, Lawrenz M, et al. Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways [published correction appears in Nat Chem. 2015 Sep;7(9):759]. _Nat Chem_. 2014;6(1):15-21. doi:10.1038/nchem.1821
 * Exploring chemical space using natural language processing. ([arxiv](https://arxiv.org/pdf/2002.06053.pdf))
 
-### 🧭 Mathematics
-* Why is the number of distinct de Bruijn sequences B(k, n) equal to (k!)^(k^(n-1)) / (k^n)?
+### Therapeutic design
+* Human kidney organoids, MUC1 (Dvela-Levitt et al., Cell, 2019) ([ipfs](https://ipfs.io/ipfs/Qmc8Zxpw5KKAXWm39Ta8bw44mwRn24CFmA6RCHsr34d2ED))
 
 ### 📊 Data Visualization
 * Vega Visualization Grammar for Graphing ([Documentation](https://vega.github.io))
+
+---
+
+## Tools
+
+* IGV Jupyter widgets
+* IGV ([User Guide](https://software.broadinstitute.org/software/igv/UserGuide))
+* Bandage ([Documentation](https://github.com/rrwick/Bandage/wiki))
+* NCBI Toolbox ([Documentation](https://www.ncbi.nlm.nih.gov/IEB/ToolBox/index.cgi))
+
+---
+
+## Questions
+
+* Linked de Bruijn graphs (LdBG)
+    * What information do they encode? Why are they useful for bioinformatics?
+* Why is the number of distinct de Bruijn sequences B(k, n) equal to (k!)^(k^(n-1)) / (k^n)?
+* How can we continue to extend Transformer and related NLP architectures to biological sequences? Are there even more pre-training tasks we can use?
+* Topological determinants of protein folding
+    * What is the right mathematical model to use to develop theory about protein folding?
 
 ---
 
@@ -97,6 +107,7 @@ Open resources for biology, chemistry, and computation.
 ## 🍎 Courses
 * **MIT 20.380: Biological Engineering Design.**
 * **MIT 10.637: Quantum Chemical Simulation.** ([http](http://hjkgrp.mit.edu/content/10637-quantum-chemical-simulation-lecture-1))
+* **Computational genomics course.** ([youtube](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn))
 
 ---
 ## Blogs and tutorials
@@ -111,6 +122,6 @@ Open resources for biology, chemistry, and computation.
 ---
 
 ## 📁 Other Repositories
-* Awesome Bioinformatics. ([repo](https://github.com/danielecook/Awesome-Bioinformatics))
-* Biotools. ([repo](https://github.com/jdidion/biotools))
-* Repository of medical data. ([repo](https://github.com/beamandrew/medical-data))
+* **Awesome Bioinformatics.** ([github](https://github.com/danielecook/Awesome-Bioinformatics))
+* **Biotools.** ([github](https://github.com/jdidion/biotools))
+* **Repository of medical data.** ([github](https://github.com/beamandrew/medical-data))

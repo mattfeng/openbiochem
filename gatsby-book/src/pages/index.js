@@ -6,8 +6,8 @@ class Home extends Component {
   render() {
     return (
       <Layout>
-        <p></p>
-        <table>
+        <h1>Open Biochemistry Textbook</h1>
+        <table className="fullwidth">
           <tr>
             <th>Chapter</th>
             <th>Description</th>
@@ -28,6 +28,10 @@ class Home extends Component {
             <td></td>
           </tr>
 
+          <tr>
+            <td><Link to="/dd/">Drug discovery</Link></td>
+            <td></td>
+          </tr>
         </table>
       </Layout>
     )

@@ -22,7 +22,7 @@ class Section extends Component {
     return (
       <Layout>
         <script src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/mhchem.min.js" integrity="sha384-5gCAXJ0ZgozlShOzzT0OWArn7yCPGWVIvgo+BAd8NUKbCmulrJiQuCVR9cHlPHeG"></script>
-        <h1>{ this.props.data.mdx.frontmatter.title }</h1>
+        <h1 dangerouslySetInnerHTML={ { __html: this.props.data.mdx.frontmatter.title }}></h1>
         <MDXProvider components={ shortcodes }>
           <MDXRenderer>
             { this.props.data.mdx.body }
