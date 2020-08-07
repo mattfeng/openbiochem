@@ -44,29 +44,30 @@ Open resources for biology, chemistry, and computation.
 #### 💻 Computational biology
 
 #### 🧠 Knowledge bases and datasets
-* DrugBank: a comprehensive resource for _in silico_ drug discovery and exploration ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
+* _DrugBank: a comprehensive resource for in silico drug discovery and exploration._ (Wishart et al., _Nucelic Acids Res_, 2006) ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
 
 ### 🧪 Chemistry
 
 #### Computational chemistry
-* Wang, L., Titov, A., McGibbon, R. _et al_. Discovering chemistry with an _ab initio_ nanoreactor. _Nature Chem 6_, 1044–1048 (2014). https://doi.org/10.1038/nchem.2099
-* Kohlhoff KJ, Shukla D, Lawrenz M, et al. Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways [published correction appears in Nat Chem. 2015 Sep;7(9):759]. _Nat Chem_. 2014;6(1):15-21. doi:10.1038/nchem.1821
-* Exploring chemical space using natural language processing. ([arxiv](https://arxiv.org/pdf/2002.06053.pdf))
+* _Discovering chemistry with an ab initio nanoreactor._ (Wang, Titov, McGibbon et al., _Nature Chem_, 2014) ([doi](https://doi.org/10.1038/nchem.2099), [ipfs](https://ipfs.io/ipfs/QmQ3hgKKDdFEEtznr9n1VGUgCqcSKFpaWSFYsqFtgfbNpN))
+* _Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways_. (Kohlhoff, Shukla, Lawrenz, et al., _Nat Chem_, 2014) ([ipfs](https://ipfs.io/ipfs/QmZFTS4EtuVAXJA91JYejEKiJLUPKguvcmr68E6JQQpZLv))
+* _Exploring chemical space using natural language processing._ (Ozturk et al.) ([arxiv](https://arxiv.org/pdf/2002.06053.pdf))
 
 ### Therapeutic design
-* Human kidney organoids, MUC1 (Dvela-Levitt et al., Cell, 2019) ([ipfs](https://ipfs.io/ipfs/Qmc8Zxpw5KKAXWm39Ta8bw44mwRn24CFmA6RCHsr34d2ED))
+* _Small Molecule Targets TMED9 and Promotes Lysosomal Degradation to Reverse Proteinpathy._ (Dvela-Levitt et al., **Cell**, 2019) ([ipfs](https://ipfs.io/ipfs/Qmc8Zxpw5KKAXWm39Ta8bw44mwRn24CFmA6RCHsr34d2ED))
+    * keywords: Human kidney organoids, MUC1
 
 ### 📊 Data Visualization
-* Vega Visualization Grammar for Graphing ([Documentation](https://vega.github.io))
 
 ---
 
 ## Tools
 
-* IGV Jupyter widgets
-* IGV ([User Guide](https://software.broadinstitute.org/software/igv/UserGuide))
-* Bandage ([Documentation](https://github.com/rrwick/Bandage/wiki))
-* NCBI Toolbox ([Documentation](https://www.ncbi.nlm.nih.gov/IEB/ToolBox/index.cgi))
+* Integrative Genomics Viewer (IGV). ([docs](https://software.broadinstitute.org/software/igv/UserGuide))
+* IGV Jupyter widgets. ([github](https://github.com/igvteam/igv-jupyter))
+* Bandage. ([docs](https://github.com/rrwick/Bandage/wiki))
+* NCBI Toolbox. ([docs](https://www.ncbi.nlm.nih.gov/IEB/ToolBox/index.cgi))
+* Vega Visualization Grammar for Graphing. ([docs](https://vega.github.io))
 
 ---
 
