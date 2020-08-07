@@ -37,27 +37,31 @@ Open resources for biology, chemistry, and computation.
 ### 🌺 Biology
 
 #### 🧬  Sequence analysis
-* _Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences._ (Rives et al,, 2019) ([biorxiv](https://www.biorxiv.org/content/10.1101/622803v1.full.pdf))
-
-#### 🌌 Protein folding
+* _Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences._ (Rives et al., 2019) ([biorxiv](https://www.biorxiv.org/content/10.1101/622803v1.full.pdf))
 
 #### 💻 Computational biology
+* _Deep generative model embedding of single-cell RNA-Seq profiles on hyperspheres and hyperbolic spaces._ (Ding and Regev, 2019) ([biorxiv](https://www.biorxiv.org/content/10.1101/853457v1.full.pdf), [ipfs](https://ipfs.io/ipfs/QmcbkqxuSzKy6pCEw5PZaPnG7LzqPLtrpwrnCgVnAJfEZJ), [doi](https://doi.org/10.1101/853457))
 
 #### 🧠 Knowledge bases and datasets
 * _DrugBank: a comprehensive resource for in silico drug discovery and exploration._ (Wishart et al., **Nucelic Acids Res**, 2006) ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
 
+#### Cell biology
+* _Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets._ (Macosko et al., **Cell**, 2015) ([ipfs](https://ipfs.io/ipfs/QmcW1XgkbmeuDVdLHJRczDU4Swh2Mz6HysZp8qKKfcUVoD), [doi](https://doi.org/10.1016/j.cell.2015.05.002))
+* _A cancer cell program promotes T-cell exclusion and resistance to checkpoint blockade._ (Jerby-Arnon et al., **Cell**, 2018) ([ipfs](https://ipfs.io/ipfs/QmbXLHq7osKmQ3bKA8Z1bKcnSgPZ4AviPk2kg5AFK3oybb), [doi](https://doi.org/10.1016/j.cell.2018.09.006))
+* _Intra- and inter- cellular rewiring of the human colon during ulcerative colitis._ (Smillie et al., **Cell**, 2019) ([ipfs](https://ipfs.io/ipfs/QmfUEbCs1fX1GjgYyCUQECdH8rHnqYURXjZwhSGRindWJB), [doi](https://doi.org/10.1016/j.cell.2019.06.029))
+* _Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq._ (Tirosh et al., **Science**, 2016) ([ipfs](https://ipfs.io/ipfs/QmWccn81rbqYh5YxDJdZs5thCnhLqHyTw5m3y9GSB47LE1), [doi](https://doi.org/10.1126/science.aad0501))
+
 ### 🧪 Chemistry
 
-#### Computational chemistry
+#### 🌳 Computational chemistry
 * _Discovering chemistry with an ab initio nanoreactor._ (Wang, Titov, McGibbon et al., **Nature Chem**, 2014) ([doi](https://doi.org/10.1038/nchem.2099), [ipfs](https://ipfs.io/ipfs/QmQ3hgKKDdFEEtznr9n1VGUgCqcSKFpaWSFYsqFtgfbNpN))
 * _Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways_. (Kohlhoff, Shukla, Lawrenz, et al., **Nature Chem**, 2014) ([ipfs](https://ipfs.io/ipfs/QmZFTS4EtuVAXJA91JYejEKiJLUPKguvcmr68E6JQQpZLv))
 * _Exploring chemical space using natural language processing._ (Ozturk et al.) ([arxiv](https://arxiv.org/pdf/2002.06053.pdf))
 
-### Therapeutic design
+### 💊 Therapeutic design
 * _Small Molecule Targets TMED9 and Promotes Lysosomal Degradation to Reverse Proteinpathy._ (Dvela-Levitt et al., **Cell**, 2019) ([ipfs](https://ipfs.io/ipfs/Qmc8Zxpw5KKAXWm39Ta8bw44mwRn24CFmA6RCHsr34d2ED))
     * keywords: Human kidney organoids, MUC1
-
-### 📊 Data Visualization
+* _Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches._ (Zhavoronkov et al., 2020) ([ipfs](https://ipfs.io/ipfs/QmSBAQS5t5jd3RNVgFzqsTisVL1HBUMra6tLNeC1EUmQLm))
 
 ---
 
