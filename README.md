@@ -37,20 +37,20 @@ Open resources for biology, chemistry, and computation.
 ### 🌺 Biology
 
 #### 🧬  Sequence analysis
-* Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences
+* _Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences._ (Rives et al,, 2019) ([biorxiv](https://www.biorxiv.org/content/10.1101/622803v1.full.pdf))
 
 #### 🌌 Protein folding
 
 #### 💻 Computational biology
 
 #### 🧠 Knowledge bases and datasets
-* _DrugBank: a comprehensive resource for in silico drug discovery and exploration._ (Wishart et al., _Nucelic Acids Res_, 2006) ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
+* _DrugBank: a comprehensive resource for in silico drug discovery and exploration._ (Wishart et al., **Nucelic Acids Res**, 2006) ([http](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1347430/pdf/gkj067.pdf))
 
 ### 🧪 Chemistry
 
 #### Computational chemistry
-* _Discovering chemistry with an ab initio nanoreactor._ (Wang, Titov, McGibbon et al., _Nature Chem_, 2014) ([doi](https://doi.org/10.1038/nchem.2099), [ipfs](https://ipfs.io/ipfs/QmQ3hgKKDdFEEtznr9n1VGUgCqcSKFpaWSFYsqFtgfbNpN))
-* _Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways_. (Kohlhoff, Shukla, Lawrenz, et al., _Nat Chem_, 2014) ([ipfs](https://ipfs.io/ipfs/QmZFTS4EtuVAXJA91JYejEKiJLUPKguvcmr68E6JQQpZLv))
+* _Discovering chemistry with an ab initio nanoreactor._ (Wang, Titov, McGibbon et al., **Nature Chem**, 2014) ([doi](https://doi.org/10.1038/nchem.2099), [ipfs](https://ipfs.io/ipfs/QmQ3hgKKDdFEEtznr9n1VGUgCqcSKFpaWSFYsqFtgfbNpN))
+* _Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways_. (Kohlhoff, Shukla, Lawrenz, et al., **Nature Chem**, 2014) ([ipfs](https://ipfs.io/ipfs/QmZFTS4EtuVAXJA91JYejEKiJLUPKguvcmr68E6JQQpZLv))
 * _Exploring chemical space using natural language processing._ (Ozturk et al.) ([arxiv](https://arxiv.org/pdf/2002.06053.pdf))
 
 ### Therapeutic design
