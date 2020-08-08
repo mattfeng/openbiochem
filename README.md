@@ -51,6 +51,10 @@ Open resources for biology, chemistry, and computation.
 * _Intra- and inter- cellular rewiring of the human colon during ulcerative colitis._ (Smillie et al., **Cell**, 2019) ([ipfs](https://ipfs.io/ipfs/QmfUEbCs1fX1GjgYyCUQECdH8rHnqYURXjZwhSGRindWJB), [doi](https://doi.org/10.1016/j.cell.2019.06.029))
 * _Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq._ (Tirosh et al., **Science**, 2016) ([ipfs](https://ipfs.io/ipfs/QmWccn81rbqYh5YxDJdZs5thCnhLqHyTw5m3y9GSB47LE1), [doi](https://doi.org/10.1126/science.aad0501))
 
+#### Gene editing
+* _Programmable base editing of A/T to G/C in genomic DNA without DNA cleavage._ (Gaudelli et al., **Nature**, 2017) ([doi](https://doi.org/10.1038/nature24644), [ipfs](https://ipfs.io/ipfs/QmcKCSmQzwWuVMztAawF1eFCvYaSEyG5fthtkLJot7gpcf))
+* _Search-and-replace genome editing without double-strand breaks or donor DNA._ (Anzalone et al., **Nature**, 2019) ([doi](https://doi.org/10.1038/s41586-019-1711-4), [ipfs](https://ipfs.io/ipfs/QmeRcZp471R6si8W6gRxxiep51QmRDPJyxWvk4V4g9AYKo))
+
 ### 🧪 Chemistry
 
 #### 🌳 Computational chemistry
