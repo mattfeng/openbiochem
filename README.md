@@ -38,6 +38,7 @@ Open resources for biology, chemistry, and computation.
 
 #### 🧬  Sequence analysis
 * _Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences._ (Rives et al., 2019) ([biorxiv](https://www.biorxiv.org/content/10.1101/622803v1.full.pdf))
+* _Computational methods for single-cell RNA sequencing._ (Hie et al., **Annual Reviews**, 2020) ([http](http://shaleklab.com/wp-content/uploads/2020/06/annurev-biodatasci-012220-100601.pdf), [ipfs](https://ipfs.io/ipfs/QmRTjGUK1XAe98HB2Ebi3no9SuLx9K4W1i8Uv7TW5vpuDC))
 
 #### 💻 Computational biology
 * _Deep generative model embedding of single-cell RNA-Seq profiles on hyperspheres and hyperbolic spaces._ (Ding and Regev, 2019) ([biorxiv](https://www.biorxiv.org/content/10.1101/853457v1.full.pdf), [ipfs](https://ipfs.io/ipfs/QmcbkqxuSzKy6pCEw5PZaPnG7LzqPLtrpwrnCgVnAJfEZJ), [doi](https://doi.org/10.1101/853457))
