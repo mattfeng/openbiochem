@@ -16,6 +16,12 @@ module.exports = {
       options: {
         gatsbyRemarkPlugins: [
           {
+            resolve: `gatsby-remark-copy-linked-files`,
+            options: {
+              destinationDir: "openbiochem",
+            },
+          },
+          {
             resolve: `gatsby-remark-katex`,
             options: {
               strict: `ignore`
