@@ -77,6 +77,8 @@ Open resources for biology, chemistry, and computation.
 * Bandage. ([docs](https://github.com/rrwick/Bandage/wiki))
 * NCBI Toolbox. ([docs](https://www.ncbi.nlm.nih.gov/IEB/ToolBox/index.cgi))
 * Vega Visualization Grammar for Graphing. ([docs](https://vega.github.io))
+- Binding Database. ([website](http://www.bindingdb.org/bind/surflex_entry.jsp))
+- BioLiP; Ligand-protein binding database. ([website](https://zhanglab.ccmb.med.umich.edu/BioLiP/))
 
 ---
 
